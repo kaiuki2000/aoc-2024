@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Extra(s)
+aoc_fetcher.py
+aoc_venv
