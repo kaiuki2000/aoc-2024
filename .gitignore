@@ -173,3 +173,4 @@ cython_debug/
 # Extra(s)
 aoc_fetcher.py
 aoc_venv
+*.txt
